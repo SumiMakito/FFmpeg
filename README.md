@@ -5,10 +5,10 @@ FFmpeg-Bilisound-Android
 
 You can find the source code of FFmpeg used in the application Bilisound.Android at here.
 
-Built **without** ```--enable-gpl``` and ```--enable-nonfree``` options.
+Built **without** ```--enable-gpl``` and ```--enable-nonfree``` options, and based on v2.8.5.
 
 ## Diff
-Nothing in the source code has been changed :)
+Nothing in the source code has been changed. :D
 
 ## License
 LGPL version 2.1
