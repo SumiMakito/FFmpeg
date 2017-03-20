@@ -1,7 +1,7 @@
 FFmpeg-Bilisound-Android
 ========
 
-> This repository exists due to the requirement of LGPL v2.1
+> The existence of this repository is intented to comply with the requirement of LGPL v2.1.
 
 You can find the source code of FFmpeg used in the application Bilisound.Android at here.
 
