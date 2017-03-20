@@ -18,3 +18,6 @@ Nothing in the source code has been changed. :D
 
 ## License
 LGPL version 2.1
+
+## FFmpeg's Original README
+[Click here](README_FFmpeg.md)
